@@ -107,11 +107,12 @@ export function ManagerReviewAchievementsExpansionPanel(props: Props) {
   );
 }
 
-const styles = (theme: Theme) => createStyles({
-  detailTypography: {
-    color: theme.palette.grey[700],
-  },
-});
+const styles = (theme: Theme) =>
+  createStyles({
+    detailTypography: {
+      color: theme.palette.grey[700],
+    },
+  });
 
 const useStyles = makeStyles(styles, { name: 'ManagerReviewAchievementsExpansionPanel' });
 type StyleProps = Styles<typeof styles>;
