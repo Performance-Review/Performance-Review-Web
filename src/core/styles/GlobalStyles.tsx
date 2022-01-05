@@ -27,6 +27,7 @@ const styles = (theme: Theme) =>
     '@global': {
       html: {},
       body: {
+        overflow: 'hidden',
         direction: 'ltr', // automatically changes to `rtl` based on theme.
         '@media print': {
           '& div': {

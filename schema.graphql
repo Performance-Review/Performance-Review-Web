@@ -1,5 +1,5 @@
-# source: http://pr-demo/graphql
-# timestamp: Mon Nov 01 2021 11:55:35 GMT+0330 (Iran Standard Time)
+# source: http://127.0.0.1:8000/graphql
+# timestamp: Wed Jan 05 2022 13:20:47 GMT+0330 (Iran Standard Time)
 
 input ChangePasswordMutationInput {
   oldPassword: String!
