@@ -106,7 +106,7 @@ export function ManagerReviewDashboardDrawerContent(props: Props) {
             <Grid container spacing={3}>
               <Grid item xs={12}>
                 <EvaluationItemOutput
-                  title={i18n._('Organization Culture Adoption')}
+                  title={i18n._('Organization Culture Adoption And Improvement')}
                   type="peer"
                   value={user.managerPersonReview?.sahabinessRating ?? null}
                 />
