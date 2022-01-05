@@ -121,7 +121,7 @@ export function ManagerReviewBehavioralCompetencies(props: Props) {
                 <ManagerReviewBehavioralCompetenciesExpansionPanel
                   reviews={reviews}
                   details={<BehavioralCompetencyHelpText criteria="sahabiness" isSelfReview={false} />}
-                  title={i18n._('Organization Culture Adoption')}
+                  title={i18n._('Organization Culture Adoption And Improvement')}
                   prefix="sahabiness"
                   reviewee={data.viewer.user}
                 />

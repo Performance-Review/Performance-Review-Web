@@ -79,7 +79,7 @@ export function BehavioralCompetenciesForm(props: Props) {
             </Grid>
             <Grid item xs={12}>
               <BehavioralCompetencyItem
-                title={i18n._('Organization Culture Adoption')}
+                title={i18n._('Organization Culture Adoption And Improvement')}
                 type={reviewType}
                 details={<BehavioralCompetencyHelpText criteria="sahabiness" isSelfReview={isSelfReview} />}
                 prefix="sahabiness"

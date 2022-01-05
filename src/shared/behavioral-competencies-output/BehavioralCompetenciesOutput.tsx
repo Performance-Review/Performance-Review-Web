@@ -42,7 +42,7 @@ export function BehavioralCompetenciesOutput(props: Props) {
     <Grid container spacing={2}>
       <Grid item xs={12}>
         <BehavioralCompetencyOutput
-          title={i18n._('Organization Culture Adoption')}
+          title={i18n._('Organization Culture Adoption And Improvement')}
           evaluation={review?.sahabinessRating as Evaluation}
           evidence={review?.sahabinessComment ?? null}
           type={reviewType}

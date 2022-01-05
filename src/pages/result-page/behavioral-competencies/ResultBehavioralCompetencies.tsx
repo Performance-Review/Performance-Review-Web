@@ -52,7 +52,7 @@ export function ResultBehavioralCompetencies(props: Props) {
           <ResultBehavioralCompetenciesExpansionPanel
             reviews={reviews}
             details={<BehavioralCompetencyHelpText criteria="sahabiness" isSelfReview />}
-            title={i18n._('Organization Culture Adoption')}
+            title={i18n._('Organization Culture Adoption And Improvement')}
             prefix="sahabiness"
           />
         </Grid>

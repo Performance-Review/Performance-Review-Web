@@ -94,8 +94,8 @@ msgid "Changes you made may not be saved."
 msgstr "Changes you made may not be saved."
 
 #: src/pages/projects-page/AddProjectForm.tsx:28
-msgid "Choose projects you have been working on in the past year."
-msgstr "Choose projects you have been working on in the past year."
+msgid "Choose projects you have been working on in the past 6 month."
+msgstr "Choose projects you have been working on in the past 6 month."
 
 #: src/pages/manager-review-dashboard/TableFilters.tsx:14
 msgid "Colleague name"
@@ -292,8 +292,8 @@ msgstr "No! Wait"
 #: src/pages/manager-review-page/behavioral-competencies/ManagerReviewBehavioralCompetencies.tsx:96
 #: src/pages/result-page/behavioral-competencies/ResultBehavioralCompetencies.tsx:38
 #: src/shared/behavioral-competencies-output/BehavioralCompetenciesOutput.tsx:30
-msgid "Organization Culture Adoption"
-msgstr "Organization Culture Adoption"
+msgid "Organization Culture Adoption And Improvement"
+msgstr "Organization Culture Adoption And Improvement"
 
 #: src/pages/result-page/project-result-page/ProjectResultExpansionPanel.tsx:52
 msgid "Other people comments about your performance compared to initial expectation"

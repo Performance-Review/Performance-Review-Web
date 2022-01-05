@@ -94,8 +94,8 @@ msgid "Changes you made may not be saved."
 msgstr "یعنی بدون ذخیره تغییرات می‌خوای بری؟؟"
 
 #: src/pages/projects-page/AddProjectForm.tsx:28
-msgid "Choose projects you have been working on in the past year."
-msgstr "پروژه‌هایی که طی یک سال گذشته درگیرشون بودید رو انتخاب کنید."
+msgid "Choose projects you have been working on in the past 6 month."
+msgstr "پروژه‌هایی که طی ۶ ماه گذشته درگیرشون بودید رو انتخاب کنید."
 
 #: src/pages/manager-review-dashboard/TableFilters.tsx:14
 msgid "Colleague name"
@@ -292,8 +292,8 @@ msgstr "نه! می‌مونم"
 #: src/pages/manager-review-page/behavioral-competencies/ManagerReviewBehavioralCompetencies.tsx:96
 #: src/pages/result-page/behavioral-competencies/ResultBehavioralCompetencies.tsx:38
 #: src/shared/behavioral-competencies-output/BehavioralCompetenciesOutput.tsx:30
-msgid "Organization Culture Adoption"
-msgstr "انطباق با فرهنگ سازمانی"
+msgid "Organization Culture Adoption And Improvement"
+msgstr "انطباق و بهبود فرهنگ سازمانی"
 
 #: src/pages/result-page/project-result-page/ProjectResultExpansionPanel.tsx:52
 msgid "Other people comments about your performance compared to initial expectation"
